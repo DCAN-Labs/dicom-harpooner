@@ -15,8 +15,9 @@ ImageSearcher is a gui resource designed to allow a user to search for a session
 
 ## Use
 ### Starting the App
-- to start the application `python manage.py runserver <Your preferred port: eg 8888>`
-- Open a webrowser and navigate to localhost:<Your preferred port>/dicoms/search
+- The application requires a virtual environment, so run `source venv/bin/activate` 
+- To start the application, run `python manage.py runserver <Your preferred port: eg 8888>`
+- Open a web browser and navigate to `localhost:<Your preferred port>/dicoms/search`
 ### Locating Subjects/Sessions (Search Page)
 ![search page](images/search.png)
 - Then type in your sub-ID, and any other project information to help find your subjects
