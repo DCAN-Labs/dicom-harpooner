@@ -15,7 +15,7 @@ djangorestframework==3.10.3
 djutils==1.0.12
 future==0.17.1
 numpy==1.16.4
-paramiko==2.6.0
+paramiko==2.10.1
 pathtools==0.1.2
 pexpect==4.7.0
 ptyprocess==0.6.0
